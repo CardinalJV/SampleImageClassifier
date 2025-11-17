@@ -3,7 +3,7 @@
 <a href="https://developer.apple.com/machine-learning/create-ml/"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/swiftui-96x96_2x.png" alt="Logo SwiftUI" title="SwiftUI" width="75" height="75"/></a>
 <a href="https://developer.apple.com/machine-learning/create-ml/"> 
-  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/create-ml-96x96_2x.png" alt="Logo Create ML" title="Create ML" width="75" height="75"/></a
+  <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/create-ml-96x96_2x.png" alt="Logo Create ML" title="Create ML" width="75" height="75"/></a>
 <a href="https://developer.apple.com/machine-learning/create-ml/"> 
   <img src="https://raw.githubusercontent.com/CardinalJV/CardinalJV/main/assets/logo-swift/core-ml-128x128_2x.png" alt="Logo CoreML" title="Core ML" width="75" height="75"/></a>
 
